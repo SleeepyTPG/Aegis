@@ -41,7 +41,7 @@ Once added, you can immediately configure it with simple slash commands:
 
 ## 📸 Preview
 
-![Aegis Logo](./resourcess/aegis.png)
+<img src="./resourcess/aegis.png" width="250" height="250">
 *Always watching. Always protecting.*
 
 ---
