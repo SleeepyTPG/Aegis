@@ -69,12 +69,3 @@ Need help? Have ideas?
 
 Aegis is hosted and maintained by the **Aegis Team**.
 All rights reserved © 2025.
-
----
-
-⚡ This is copy-paste ready — just replace:  
-- `https://your-invite-link-here.com` → with your real bot invite link  
-- `./assets/aegis-logo.png` → with the logo file path  
-- `https://discord.gg/your-support-invite` → with your support server invite  
-
-Do you want me to also generate a **badge section** (uptime, servers count, invite, support) to make the header even more eye-catching?
