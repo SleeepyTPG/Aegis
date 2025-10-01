@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ Aegis Bot
 
 **Aegis** is an **AI-powered Discord moderation & assistant bot** built to keep communities safe, fair, and engaged.  
@@ -34,11 +33,9 @@ Aegis is **hosted by the Aegis Team** — no setup or coding required.
 👉 **[Invite Aegis to Your Server](https://your-invite-link-here.com)**  
 
 Once added, you can immediately configure it with simple slash commands:  
-```plaintext
 /setrules – Upload your server rules  
 /setlog – Define your moderation log channel  
 /settings – Adjust automod preferences  
-````
 
 ---
 
@@ -73,8 +70,6 @@ Need help? Have ideas?
 Aegis is hosted and maintained by the **Aegis Team**.
 All rights reserved © 2025.
 
-```
-
 ---
 
 ⚡ This is copy-paste ready — just replace:  
@@ -83,4 +78,3 @@ All rights reserved © 2025.
 - `https://discord.gg/your-support-invite` → with your support server invite  
 
 Do you want me to also generate a **badge section** (uptime, servers count, invite, support) to make the header even more eye-catching?
-```
